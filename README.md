@@ -1,9 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8f0,100:1887dc&height=120&text=&animation=&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8f0,100:1887dc&height=120&text=Welcome%20To%20Jinsy's%20Github&animation=fadeIn&fontColor=1e528a&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi There! </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 게임 기획 PM을 꿈꾸는 IT공학과 학생입니다! </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -25,7 +25,5 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">   </div> 
-    </div>
+    
     
